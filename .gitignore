@@ -1,0 +1,10 @@
+*.log
+*.tmp
+*.bak
+*.cache
+*.swp
+*.exe
+*.dll
+node_modules/
+.idea/
+.vscode/
